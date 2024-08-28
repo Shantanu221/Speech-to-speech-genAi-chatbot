@@ -1,0 +1,6 @@
+model_path:
+  chat_model_llama: "D:/GenAi/speech-chatbot/models/llama-2-13b-chat.ggmlv3.q5_0.bin"
+
+model_type: "llama"
+
+model_config: { "max_new_tokens": 300, "temperature": 0.15 }
