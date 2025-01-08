@@ -67,7 +67,7 @@ Vaani Chat-Bot is an interactive chatbot application that enables natural langua
 ## Screenshots/Demo
 
 - **Screenshots**: [Include links or images showing the app interface]
-- **Demo**: [Include a link to a live demo if available]
+
 
 ## Limitations and Issues
 
@@ -83,6 +83,4 @@ Vaani Chat-Bot is an interactive chatbot application that enables natural langua
 
 - This project is licensed under the [MIT License](LICENSE).
 
----
 
-This README provides a comprehensive guide to understanding and using the Vaani Chat-Bot application. For more detailed information, please refer to the source code and documentation. If you need further customization or have specific changes in mind, feel free to ask!
