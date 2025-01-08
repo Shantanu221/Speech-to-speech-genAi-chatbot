@@ -66,7 +66,7 @@ Vaani Chat-Bot is an interactive chatbot application that enables natural langua
 
 ## Screenshots/Demo
 
-- **Screenshots**: [Include links or images showing the app interface]
+- **Screenshots**: [Will include soon!]
 
 
 ## Limitations and Issues
