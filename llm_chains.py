@@ -2,11 +2,13 @@ from prompt_templates import prompt_template
 from langchain.chains.llm import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain_community.llms import CTransformers
-from langchain.memory import ConversationBufferWindowMemory
 import yaml
 import os
+from dotenv import load_dotenv
 
-os.environ['HUGGINGFACEHUB_API_TOKEN']="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"
+load_dotenv()
+
+os.environ['HUGGINGFACEHUB_API_TOKEN']=os.getenv("HUGGINGFACEHUB_API")
 
 with open("config.yaml","r") as f:
     config=yaml.safe_load(f)
